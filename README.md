@@ -5,6 +5,6 @@ A simple console game in Python. Try to guess the number chosen by the computer 
 ## How to run
 
 ```bash
-python guess_number.py
+python GuessTheNumber.py
 
 # HAVE FUN!!
